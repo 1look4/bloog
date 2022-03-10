@@ -1,5 +1,5 @@
 ---
-date: '2022-02-12'
+date: '2022-02-15'
 title: A first blog post
 tags: [first, blog, tech]
 author: Gopinath
